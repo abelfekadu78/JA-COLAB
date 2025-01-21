@@ -1,6 +1,6 @@
 # JA-COLAB
 
-The aim of this collab is building different programs to for our  church "DSKM" and sunday school "DSKM FH". Which creates an opportunity to improve our skills and expertise as well as support our church.
+The aim of this collab is building different programs for our  church "DSKM" and sunday school "DSKM FH". Which creates an opportunity to improve our skills and expertise as well as support our church.
 
 **Tasks**
 
